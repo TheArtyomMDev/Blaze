@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30547797145",
+    "project_id": "blzvol2arty",
+    "storage_bucket": "blzvol2arty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30547797145:android:7921cb9e8c367c1917c408",
+        "android_client_info": {
+          "package_name": "com.bliz.sltrope.rifkle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30547797145-5co00ofjtrm8q5n6b5ticbo8hondlrio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qVTbR1uNf-4NKbrbCVS37RsuZ9koNbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30547797145-5co00ofjtrm8q5n6b5ticbo8hondlrio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Blaze Wheel of Victory"
-include ':blazewheel2'
+include ':blzwheelofvictory'
