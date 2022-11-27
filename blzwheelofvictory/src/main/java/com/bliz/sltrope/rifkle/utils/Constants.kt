@@ -15,5 +15,5 @@ object Constants {
 
     const val APPSFLYER_API_KEY = "dMiVoRRtuHnNogG3F64RhC"
     const val ONESIGNAL_API_KEY = "dfb71a96-3424-4d03-8eda-e751d46af772"
-    const val KOCHAVA_API_KEY = "kocamper-13-blz-hh9gck1fw"
+    const val KOCHAVA_API_KEY = "kocamper-16-ukcr5ex2l"
 }
