@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.bliz.sltrope.rifkle",
+  "applicationId": "com.jerbuchameeris.aviajet",
   "variantName": "release",
   "elements": [
     {
@@ -13,7 +13,7 @@
       "attributes": [],
       "versionCode": 1,
       "versionName": "1.0",
-      "outputFile": "blzwheelofvictory-release.apk"
+      "outputFile": "jatox-release.apk"
     }
   ],
   "elementType": "File"

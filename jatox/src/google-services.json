@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961314833803",
+    "project_id": "jetarty-9dfc2",
+    "storage_bucket": "jetarty-9dfc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961314833803:android:560f4c68e45b77add85b8e",
+        "android_client_info": {
+          "package_name": "com.jerbuchameeris.aviajet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961314833803-l7u53vpmuisv2719n6ru60o45o0mmanf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY-a74hYSvaF0r6378qJxWamolVGH8s9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961314833803-l7u53vpmuisv2719n6ru60o45o0mmanf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/blzwheelofvictory" />
+            <option value="$PROJECT_DIR$/jatox" />
           </set>
         </option>
       </GradleProjectSettings>
