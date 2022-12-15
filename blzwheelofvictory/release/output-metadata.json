@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.jerbuchameeris.aviajet",
+  "applicationId": "com.avijekrl.proald",
   "variantName": "release",
   "elements": [
     {
@@ -13,7 +13,7 @@
       "attributes": [],
       "versionCode": 1,
       "versionName": "1.0",
-      "outputFile": "jatox-release.apk"
+      "outputFile": "jokerbiggame-release.apk"
     }
   ],
   "elementType": "File"
